@@ -1,6 +1,6 @@
 # Merhaba 👋
 
-Ben Adama Kone 210 309 813.
+Ben Adama Kone.
 
 🎓 Bilgisayar Mühendisliği öğrencisiyim.  
 📍 İstanbul, Türkiye
